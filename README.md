@@ -4,3 +4,4 @@ Intrucciones Generales del Proyecto.
 3. Realiza la funcionalidad asignada.
 4. Realiza tu commit.
 5. Realiza tu push.
+6. Realiza un pull.
